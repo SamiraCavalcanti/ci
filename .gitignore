@@ -1,0 +1,33 @@
+# PostgreSQL data
+postgres-data/
+
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Generated files
+vendor/
+dist/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nested git repos
+api_rest_gin_go_2-validacoes-e-testes/
